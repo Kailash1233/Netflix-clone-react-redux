@@ -6,7 +6,7 @@
 
 ## **Live Link**
 
-https://netflix-clone-12de9.web.app/
+https://kailash1233.github.io/SIMBT_01/
 
 ## **Technology Used**
 - React
@@ -27,7 +27,7 @@ https://netflix-clone-12de9.web.app/
 - Clone repository and install dependencies:
 
 ```bash
-- https://github.com/tasmiarahmantanjin/Netflix_Clone
+- https://github.com/Kailash1233/Netflix_Clone
 - cd Netflix_Clone
 - npm install
 - npm start
@@ -58,7 +58,3 @@ https://netflix-clone-12de9.web.app/
 	- Expiry Date: 04 / 24
 	- CVC: 424
 ```
-
-## 🙋‍♀️ **Author**
-
-[Tasmia Rahman](https://github.com/tasmiarahmantanjin)

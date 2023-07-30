@@ -43,9 +43,7 @@ https://kailash1233.github.io/SIMBT_01/
 ## **How to sign in App**
 
 - You can sign in with following fake user:
-
-  - Tasmia Rahman
-
+- 
     - Email: testemail@gmail.com
     - Password: testabc
 

@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Netflix_Clone/static/css/main.fe5db648.chunk.css",
-    "main.js": "/Netflix_Clone/static/js/main.101c3004.chunk.js",
-    "main.js.map": "/Netflix_Clone/static/js/main.101c3004.chunk.js.map",
-    "runtime-main.js": "/Netflix_Clone/static/js/runtime-main.3b25c8ea.js",
-    "runtime-main.js.map": "/Netflix_Clone/static/js/runtime-main.3b25c8ea.js.map",
-    "static/js/2.5fc38d50.chunk.js": "/Netflix_Clone/static/js/2.5fc38d50.chunk.js",
-    "static/js/2.5fc38d50.chunk.js.map": "/Netflix_Clone/static/js/2.5fc38d50.chunk.js.map",
-    "index.html": "/Netflix_Clone/index.html",
-    "static/css/main.fe5db648.chunk.css.map": "/Netflix_Clone/static/css/main.fe5db648.chunk.css.map",
-    "static/js/2.5fc38d50.chunk.js.LICENSE.txt": "/Netflix_Clone/static/js/2.5fc38d50.chunk.js.LICENSE.txt"
+    "main.css": "/SIMBT_01/static/css/main.fe5db648.chunk.css",
+    "main.js": "/SIMBT_01/static/js/main.51266e9c.chunk.js",
+    "main.js.map": "/SIMBT_01/static/js/main.51266e9c.chunk.js.map",
+    "runtime-main.js": "/SIMBT_01/static/js/runtime-main.925ace13.js",
+    "runtime-main.js.map": "/SIMBT_01/static/js/runtime-main.925ace13.js.map",
+    "static/js/2.3d8217dc.chunk.js": "/SIMBT_01/static/js/2.3d8217dc.chunk.js",
+    "static/js/2.3d8217dc.chunk.js.map": "/SIMBT_01/static/js/2.3d8217dc.chunk.js.map",
+    "index.html": "/SIMBT_01/index.html",
+    "static/css/main.fe5db648.chunk.css.map": "/SIMBT_01/static/css/main.fe5db648.chunk.css.map",
+    "static/js/2.3d8217dc.chunk.js.LICENSE.txt": "/SIMBT_01/static/js/2.3d8217dc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b25c8ea.js",
-    "static/js/2.5fc38d50.chunk.js",
+    "static/js/runtime-main.925ace13.js",
+    "static/js/2.3d8217dc.chunk.js",
     "static/css/main.fe5db648.chunk.css",
-    "static/js/main.101c3004.chunk.js"
+    "static/js/main.51266e9c.chunk.js"
   ]
 }

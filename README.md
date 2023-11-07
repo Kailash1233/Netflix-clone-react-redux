@@ -27,7 +27,7 @@ https://kailash1233.github.io/SIMBT_01/
 - Clone repository and install dependencies:
 
 ```bash
-- https://github.com/Kailash1233/Netflix_Clone
+- https://github.com/Kailash1233/Netflix-clone-react-redux.git
 - cd Netflix_Clone
 - npm install
 - npm start
